@@ -14,8 +14,8 @@ Will display "hello world"
 Will display a morse code chart!  
 `
 
-== [ Morse code table ] ==
-[ ] -> ,  
+== [ Morse code table ] ==  
+[ ] -> ,    
 [a] -> .-  
 [b] -> -...  
 [c] -> -.-.  
