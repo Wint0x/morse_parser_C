@@ -2,7 +2,7 @@
 `gcc morse_parser.c -o morse_parser.out`  
 
 ## Example Usage  
-`
+```
 . = dot  
 \- =  dash  
 , = space  
@@ -12,7 +12,7 @@ Will display "hello world"
 
 .morse_parser --show  
 Will display a morse code chart!  
-`
+```
 
 == [ Morse code table ] ==  
 [ ] -> ,    
