@@ -55,8 +55,6 @@ int main(int argc, char **argv)
 	char* morse_characters[MAX_CHARS]; // This assumes a maximum of MAX_CHARS user-provided morse characters
 	char* tokenize = strtok(my_message, " ");
 
-	char buffer[MAX_CHARS]; // buffer technically requires less size but it's ok!
-
 	int word_count = 0;
 
 	// Store pointers to individual words in character_array;
