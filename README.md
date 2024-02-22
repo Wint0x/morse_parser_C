@@ -4,10 +4,10 @@
 ## Example Usage  
 `
 . = dot  
-\- =  dash
+\- =  dash  
 , = space  
 
-./morse_parser .... . .-.. .-.. --- , .-- --- .-. .-.. -..  
+./morse_parser .... . .-.. .-.. --- , .-- --- .-. .-.. -..    
 Will display "hello world"  
 
 .morse_parser --show  
