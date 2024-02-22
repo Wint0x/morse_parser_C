@@ -7,10 +7,10 @@
 - =  dash  
 , = space  
 
-./morse_parser .... . .-.. .-.. --- , .-- --- .-. .-.. -..    
+./morse_parser.out .... . .-.. .-.. --- , .-- --- .-. .-.. -..    
 Will display "hello world"  
 
-./morse_parser --show  
+./morse_parser.out --show  
 Will display a morse code chart!  
 ```
 
