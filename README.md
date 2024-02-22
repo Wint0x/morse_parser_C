@@ -10,7 +10,7 @@
 ./morse_parser .... . .-.. .-.. --- , .-- --- .-. .-.. -..    
 Will display "hello world"  
 
-.morse_parser --show  
+./morse_parser --show  
 Will display a morse code chart!  
 ```
 
