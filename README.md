@@ -4,7 +4,7 @@
 ## Example Usage  
 ```
 . = dot  
-\- =  dash  
+- =  dash  
 , = space  
 
 ./morse_parser .... . .-.. .-.. --- , .-- --- .-. .-.. -..    
